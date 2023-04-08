@@ -1,3 +1,6 @@
+
+![alt text](https://images.theconversation.com/files/395473/original/file-20210416-17-1s42eoj.jpg?ixlib=rb-1.1.0&rect=119%2C0%2C1277%2C747&q=45&auto=format&w=926&fit=clip)
+
 # sophia
 hello !! Kindly meet ChatGPT's fiance from openAi with CommandLine interface by AuxGrep
 
