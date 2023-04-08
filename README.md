@@ -13,4 +13,7 @@ I wrote this with very simple functions and procedures , you just need to provid
 ┌──(auxgrep㉿cyberSEc4K)-[~]
 └─$ Ai
 
+# Enjoy
+@AuxGrep
+
 
